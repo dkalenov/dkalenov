@@ -16,9 +16,6 @@
     <a href="https://weixin.qq.com/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/3670/3670101.png" width="40" height="40" alt="WeChat"/>
     </a>
-    <a href="skype:live:d6e086195e727285" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/3670/3670176.png" width="40" height="40" alt="Skype"/>
-    </a>
     <a href="https://discord.com/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" width="40" height="40" alt="Discord"/>
     </a>
