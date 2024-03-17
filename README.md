@@ -31,12 +31,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" title="Python" alt="Python" width="40" height="40"/>&nbsp
   <img src="https://cdn-icons-png.flaticon.com/128/5815/5815809.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp
-  <img src="" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/3071/3071718.png" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/3993/3993895.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/185/185569.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp
-  <img src="https://cdn-icons-png.flaticon.com/512/3619/3619251.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp
+  <img src="https://github.com/dkalenov/dkalenov/raw/main/assets/Pandas_logo.png" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp
+  <img src="https://github.com/dkalenov/dkalenov/raw/main/assets/" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp
+  <img src="https://github.com/dkalenov/dkalenov/raw/main/assets/PyTorch_logo.png" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp
+  <img src="https://github.com/dkalenov/dkalenov/raw/main/assets/Scikit-learn_logo.png" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp
+  <img src="https://github.com/dkalenov/dkalenov/raw/main/assets/matplotlib_logo.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp
+  <img src="" title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp
+  <img src="https://github.com/dkalenov/dkalenov/raw/main/assets/Tableau_logo.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp
 </div>
 
 ---
