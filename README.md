@@ -25,7 +25,7 @@
 
 ---
 
-#### 💻 Languages and Tools:
+#### 💻 Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp
@@ -41,6 +41,8 @@
 </div>
 
 ---
+
+
 
 <!--
 **dkalenov/dkalenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
