@@ -41,7 +41,7 @@
 </div>
 
 ---
-
+* [Repository with my projects](https://github.com/dkalenov/MyProjects/blob/main/README.md)
 
 
 <!--
