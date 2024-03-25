@@ -4,30 +4,30 @@
 </p>
 
 ---
-#### :link: Links
+###### :link: Links
 
 <div id="badges">
   <a href="https://t.me/KDR_98" class="badge">
-    <img src="https://img.shields.io/badge/-@KDR__98-2CA5E0?style=flat-square&amp;logo=Telegram&amp;logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/-@KDR__98-2CA5E0?style=flat&logo=Telegram&amp;logoColor=white" alt="Telegram">
   </a>
   <a href="https://www.linkedin.com/in/dmitrii-kalenov" class="badge">
-    <img src="https://img.shields.io/badge/-dmitrii--kalenov-0077B5?style=flat-square&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-dmitrii--kalenov-0077B5?style=flat&logo=LinkedIn&amp;logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:drkalenov@gmail.com" class="badge">
-    <img src="https://img.shields.io/badge/-drkalenov@gmail.com-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-drkalenov@gmail.com-D14836?style=flat&logo=Gmail&amp;logoColor=white" alt="Email">
   </a>
   <span class="badge">
-    <img src="https://img.shields.io/badge/-kalyonovdr-7BB32E?style=flat-square&amp;logo=WeChat&amp;logoColor=white" alt="WeChat">
+    <img src="https://img.shields.io/badge/-kalyonovdr-7BB32E?style=flat&logo=WeChat&amp;logoColor=white" alt="WeChat">
   </span>
   <span class="badge">
-    <img src="https://img.shields.io/badge/-dmitrykalyonov-7289DA?style=flat-square&amp;logo=Discord&amp;logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/-dmitrykalyonov-7289DA?style=flat&logo=Discord&amp;logoColor=white" alt="Discord">
   </span>
 </div>
 
 
 ---
 
-#### 💻 Languages and Tools
+###### 💻 Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp
