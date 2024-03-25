@@ -1,23 +1,29 @@
 
 <p align="center">
-  <img src="https://github.com/dkalenov/dkalenov/raw/main/assets/github.gif" alt="Hi👋 I'm Dmitrii, a data scientist">
+  <img src="https://github.com/dkalenov/dkalenov/raw/main/assets/github.gif" alt="Hi👋 I'm Dmitrii, a data scientist" width="1000" height="285">
 </p>
 
 ---
 #### :link: Links
+
 <div id="badges">
-  <a href="https://t.me/KDR_98">
-    <img src="https://img.shields.io/badge/-@KDR__98-2CA5E0?style=flat-square&amp;logo=Telegram&amp;logoColor=white" alt="Telegram" width="120" height="30">
+  <a href="https://t.me/KDR_98" class="badge">
+    <img src="https://img.shields.io/badge/-@KDR__98-2CA5E0?style=flat-square&amp;logo=Telegram&amp;logoColor=white" alt="Telegram">
   </a>
-  <a href="https://www.linkedin.com/in/dmitrii-kalenov">
-    <img src="https://img.shields.io/badge/-dmitrii--kalenov-0077B5?style=flat-square&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn" width="160" height="30">
+  <a href="https://www.linkedin.com/in/dmitrii-kalenov" class="badge">
+    <img src="https://img.shields.io/badge/-dmitrii--kalenov-0077B5?style=flat-square&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:drkalenov@gmail.com">
-    <img src="https://img.shields.io/badge/-drkalenov@gmail.com-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Email" width="200" height="30">
+  <a href="mailto:drkalenov@gmail.com" class="badge">
+    <img src="https://img.shields.io/badge/-drkalenov@gmail.com-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Email">
   </a>
-  <img src="https://img.shields.io/badge/-kalyonovdr-7BB32E?style=flat-square&amp;logo=WeChat&amp;logoColor=white" alt="WeChat" width="140" height="30">
-  <img src="https://img.shields.io/badge/-dmitrykalyonov-7289DA?style=flat-square&amp;logo=Discord&amp;logoColor=white" alt="Discord" width="160" height="30">
+  <span class="badge">
+    <img src="https://img.shields.io/badge/-kalyonovdr-7BB32E?style=flat-square&amp;logo=WeChat&amp;logoColor=white" alt="WeChat">
+  </span>
+  <span class="badge">
+    <img src="https://img.shields.io/badge/-dmitrykalyonov-7289DA?style=flat-square&amp;logo=Discord&amp;logoColor=white" alt="Discord">
+  </span>
 </div>
+
 
 ---
 
@@ -37,7 +43,9 @@
 </div>
 
 ---
-* [Repository with my projects](https://github.com/dkalenov/MyProjects/blob/main/README.md)
+<a href="https://github.com/dkalenov/MyProjects/blob/main/README.md">
+  <img src="https://img.shields.io/badge/-MyProjects-black?style=flat&logo=github&labelColor=black" alt="Repository with my projects">
+</a>
 
 
 <!--
