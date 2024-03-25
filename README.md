@@ -6,21 +6,17 @@
 ---
 #### :link: Links
 <div id="badges">
-    <a href="https://t.me/KDR_98" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
-    </a>
-    <a href="https://www.linkedin.com/in/dmitrii-kalenov" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="Linkedin" />
-    </a>
-    <a href="mailto:drkalenov@gmail.com" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="40" height="40" alt="Email"/>
-    </a>
-    <a href="https://weixin.qq.com/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/3670/3670101.png" width="40" height="40" alt="WeChat"/>
-    </a>
-    <a href="https://discord.com/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/128/3670/3670157.png" width="40" height="40" alt="Discord"/>
-    </a>
+  <a href="https://t.me/KDR_98">
+    <img src="https://img.shields.io/badge/-@KDR__98-2CA5E0?style=flat-square&amp;logo=Telegram&amp;logoColor=white" alt="Telegram" width="120" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/dmitrii-kalenov">
+    <img src="https://img.shields.io/badge/-dmitrii--kalenov-0077B5?style=flat-square&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn" width="160" height="30">
+  </a>
+  <a href="mailto:drkalenov@gmail.com">
+    <img src="https://img.shields.io/badge/-drkalenov@gmail.com-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="Email" width="200" height="30">
+  </a>
+  <img src="https://img.shields.io/badge/-kalyonovdr-7BB32E?style=flat-square&amp;logo=WeChat&amp;logoColor=white" alt="WeChat" width="140" height="30">
+  <img src="https://img.shields.io/badge/-dmitrykalyonov-7289DA?style=flat-square&amp;logo=Discord&amp;logoColor=white" alt="Discord" width="160" height="30">
 </div>
 
 ---
