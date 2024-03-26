@@ -8,7 +8,7 @@
 <p align="center"><strong>I'm passionate about solving complex problems and creating valuable insights. I strongly believe in the power of collaboration to create a positive impact. Let's connect and work together on innovative projects!</strong></p>
 
 
-<h2 align='center'> <i> <a href="https://t.me/KDR_98" class="badge">
+<h2 align='center'> <a href="https://t.me/KDR_98" class="badge">
     <img src="https://img.shields.io/badge/-@KDR__98-2CA5E0?style=flat&logo=Telegram&amp;logoColor=white" alt="Telegram" height="22">
   </a>
   <a href="https://www.linkedin.com/in/dmitrii-kalenov" class="badge">
@@ -23,7 +23,6 @@
   <span class="badge">
     <img src="https://img.shields.io/badge/-dmitrykalyonov-7289DA?style=flat&logo=Discord&amp;logoColor=white" alt="Discord" height="22">
   </span></h2> 
-
 
 
 <p align="center"><strong>I'm excited to share my work</strong></p>
