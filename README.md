@@ -9,19 +9,19 @@
 
 
 <h2 align='center'> <i> <a href="https://t.me/KDR_98" class="badge">
-    <img src="https://img.shields.io/badge/-@KDR__98-2CA5E0?style=flat&logo=Telegram&amp;logoColor=white" alt="Telegram" height="25">
+    <img src="https://img.shields.io/badge/-@KDR__98-2CA5E0?style=flat&logo=Telegram&amp;logoColor=white" alt="Telegram" height="22">
   </a>
   <a href="https://www.linkedin.com/in/dmitrii-kalenov" class="badge">
-    <img src="https://img.shields.io/badge/-dmitrii--kalenov-0077B5?style=flat&logo=LinkedIn&amp;logoColor=white" alt="LinkedIn" height="25">
+    <img src="https://img.shields.io/badge/-dmitrii--kalenov-0077B5?style=flat&logo=LinkedIn&amp;logoColor=white" alt="LinkedIn" height="22">
   </a>
   <a href="mailto:drkalenov@gmail.com" class="badge">
-    <img src="https://img.shields.io/badge/-drkalenov@gmail.com-D14836?style=flat&logo=Gmail&amp;logoColor=white" alt="Email" height="25">
+    <img src="https://img.shields.io/badge/-drkalenov@gmail.com-D14836?style=flat&logo=Gmail&amp;logoColor=white" alt="Email" height="22">
   </a>
   <span class="badge">
-    <img src="https://img.shields.io/badge/-kalyonovdr-7BB32E?style=flat&logo=WeChat&amp;logoColor=white" alt="WeChat" height="25">
+    <img src="https://img.shields.io/badge/-kalyonovdr-7BB32E?style=flat&logo=WeChat&amp;logoColor=white" alt="WeChat" height="22">
   </span>
   <span class="badge">
-    <img src="https://img.shields.io/badge/-dmitrykalyonov-7289DA?style=flat&logo=Discord&amp;logoColor=white" alt="Discord" height="25">
+    <img src="https://img.shields.io/badge/-dmitrykalyonov-7289DA?style=flat&logo=Discord&amp;logoColor=white" alt="Discord" height="22">
   </span></h2> 
 
 
