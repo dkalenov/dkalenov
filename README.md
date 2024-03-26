@@ -26,7 +26,10 @@
 
 
 <p align="center"><strong>I'm excited to share my work</strong></p>
-<p align='center'> <img src="https://img.shields.io/badge/-MyProjects-black?style=flat&logo=github&labelColor=black" alt="Repository with my projects"  height="25"> </p>
+<p align='center'> 
+  <a href="https://github.com/dkalenov/MyProjects/blob/main/README.md">
+  <img src="https://img.shields.io/badge/-MyProjects-black?style=flat&logo=github&labelColor=black" alt="Repository with my projects"  height="25"> 
+</p>
 
 ---
 <p align="center"><strong>💻 Languages and Tools</strong></p>
