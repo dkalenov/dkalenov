@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/dkalenov/dkalenov/raw/main/assets/github.gif" alt="Hi👋 I'm Dmitrii, a data scientist" >
+  <img src="https://github.com/dkalenov/dkalenov/raw/main/assets/github-banner.gif" alt="Hi👋 I'm Dmitrii, a data scientist" >
 </p>
 
 ---
